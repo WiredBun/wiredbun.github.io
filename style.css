@@ -1,13 +1,13 @@
 .head {
 	text-align:center;
 	font-size:80%;
-	background-color:pink;
-	color:black;
+	background-color:mediumpurple;
+	color:white;
 
 	padding:10px 35px 10px 10px;
 	margin:0px;
-	border-top:4px solid white;
-	border-left:4px solid white;
+	border-top:4px solid black;
+	border-left:4px solid black;
 
 }
 
@@ -25,13 +25,13 @@
 	margin:0px;
 	padding:0px;
 	background-color:pink;
-	color:black;
+	color:white;
 	font-size:100%;
 	text-align:left;
-	border-top:4px solid white;
-	border-bottom:4px solid white;
-	border-left:4px solid white;
-	border-right:4px solid white;
+	border-top:4px solid black;
+	border-bottom:4px solid black;
+	border-left:4px solid black;
+	border-right:4px solid black;
 	
 }
 
@@ -62,16 +62,16 @@
 
 .center {
 	flex:1;
-	background-color:pink;
-	color:black;
-	border-top:4px solid white; 
-	border-bottom:4px solid white;
-	border-left:4px solid white;
-	border-right:4px solid white;
+	background-color:mediumpurple;
+	color:white;
+	border-top:4px solid black; 
+	border-bottom:4px solid black;
+	border-left:4px solid black;
+	border-right:4px solid black;
 
 	width:auto;
 	text-align:center;
-	padding:0px 35px 35px 0px
+	padding:5px 35px 35px 5px
 
 }
 
@@ -79,15 +79,16 @@
 	flex:1;
 	margin:0px;
 	background-color:pink;
-	border:6px solid white;
+	border:6px solid black;
 	border-radius:16px;
 }
 
 .nvbcur {
         flex:1;
-        margin:0px;
-        background-color:hotpink;
-        border:6px solid white;
+        margin:6px;
+        background-color:pink;
+        border:6px solid mediumpurple;
         border-radius:16px;
+	
 }
 
