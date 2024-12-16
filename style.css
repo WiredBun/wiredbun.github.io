@@ -1,3 +1,8 @@
+
+a { 
+	color:darkmagenta;
+}
+
 .head {
 	text-align:center;
 	font-size:80%;
@@ -41,22 +46,6 @@
 	padding:10px;
 	width:auto;
 	text-align:left;
-
-}
-.sidepanel lu{
-	margin:0px;
-	padding:0px;
-	list-style:none;
-	display:inline-block;
-	text-align:left;
-
-}
-
-.sidepanel li{
-	margin:10px;
-	display:inline-block;
-	padding:0;
-	font-size:80%
 
 }
 
