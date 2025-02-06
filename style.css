@@ -89,15 +89,20 @@ a {
 
 
 .footer {
-	   color:white;
-	   text-align:center;
-	   font-size:70%;
-	   margin:2px;
+	color:white;
+	text-align:center;
+	font-size:70%;
+	margin:2px;
 }
 
-.body hr{
+.proj hr {
 	color:pink;
+	
+}
 
+.content hr {
+	color:pink;
+	
 }
 
 
