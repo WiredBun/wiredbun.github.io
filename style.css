@@ -89,8 +89,9 @@ a {
 .footer {
 	color:white;
 	text-align:center;
-	font-size:50%;
+	font-size:70%;
 	border:6px dotted white;
+	margin:8px;
 }
 
 .proj hr{
