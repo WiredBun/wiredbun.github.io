@@ -86,12 +86,12 @@ a {
 	padding:10px 0px 0px 35px;
 }
 
-.page-container {
+#page-container {
 	position:relative;
 	min-height:100%;
 }
 
-.content-wrap {
+#content-wrap {
 	padding-bottom:2.5rem;
 }
 
